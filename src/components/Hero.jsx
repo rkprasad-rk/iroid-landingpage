@@ -31,7 +31,7 @@ function Hero() {
         </p>
         <button
           type="button"
-          className="bg-primary flex items-center gap-x-5 px-5 py-2 rounded-full border text-white "
+          className="bg-primary flex items-center gap-x-3 px-5 py-2 rounded-full border text-white "
         >
           <p className="flex-shrink-0"> Get the App</p>
 
@@ -42,7 +42,7 @@ function Hero() {
             viewBox="0 0 24 24"
             fill="#ffffff"
           >
-            <path d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z" />
+            <path d="m20 12-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8z" />
           </svg>
         </button>
       </div>
